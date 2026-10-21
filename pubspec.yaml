@@ -1,0 +1,37 @@
+name: ghar_kharch
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.5.5
+  image_picker: ^1.2.3
+  firebase_core: ^3.10.1
+  firebase_auth: ^5.3.4
+  cloud_firestore: ^5.5.1
+  share_plus: ^10.1.4
+  pdf: ^3.11.1
+  printing: ^5.13.2
+  mobile_scanner: ^7.4.0
+  url_launcher: ^6.2.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/app_icon.jpeg"
+
+flutter:
+  uses-material-design: true
