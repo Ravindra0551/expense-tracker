@@ -12,6 +12,10 @@ A clean, responsive mobile application built to help users log, categorize, and 
 * **Visual Summary:** View total daily and monthly expenditure at a glance.
 * **CRUD Operations:** Easily edit or delete previous transaction records.
 
+## 📱 Screenshots
+<img width="280" alt="Screenshot2" src="https://github.com/user-attachments/assets/abded480-3a66-45f9-b3f2-cd0ad80b9897" />
+<img width="280" alt="Screenshot1" src="https://github.com/user-attachments/assets/da653fb7-f462-4a12-97f7-7f612777efbf" />
+
 ---
 
 ## 🛠️ Tech Stack
